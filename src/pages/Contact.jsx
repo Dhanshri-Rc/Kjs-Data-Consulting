@@ -389,7 +389,7 @@ export default function Contact() {
                       >
                         ✓
                       </motion.div>
-                      <h3 className="font-display font-black text-white text-3xl mb-3">Message Sent!</h3>
+                      <h3 className="font-serif font-black text-white text-3xl mb-3">Message Sent!</h3>
                       <p className="text-white/45 text-base font-body max-w-sm leading-relaxed">
                         Thank you, <strong className="text-white">{form.firstName}</strong>! We've received your enquiry 
                         and a senior principal will be in touch within 1 business day.
